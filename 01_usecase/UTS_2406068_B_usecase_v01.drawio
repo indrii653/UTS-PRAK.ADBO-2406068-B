@@ -1,0 +1,130 @@
+<mxfile host="65bd71144e">
+    <diagram id="qhV_WG2lNx8aL3I7CR7h" name="Page-1">
+        <mxGraphModel dx="1632" dy="1208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="USECASE&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;MENDAFTAR BEROBAT&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="40" width="345" x="240" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-16" edge="1" parent="1" source="gqPH6V1CDbzmUIu4SyD0-13" style="edgeStyle=none;html=1;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="245" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-13" parent="1" style="ellipse;fillColor=strokeColor;html=1;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="230" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-23" edge="1" parent="1" source="gqPH6V1CDbzmUIu4SyD0-21" style="edgeStyle=none;html=1;" target="gqPH6V1CDbzmUIu4SyD0-22" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-21" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="Membuka&amp;nbsp;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;sistem informasi pendaftaran layanan klinik kampus(siklinik)&lt;/span&gt;" vertex="1">
+                    <mxGeometry height="50" width="160" x="165" y="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-25" edge="1" parent="1" source="gqPH6V1CDbzmUIu4SyD0-22" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;curved=0;" target="gqPH6V1CDbzmUIu4SyD0-24">
+                    <mxGeometry relative="1" x="-0.0881" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="490" y="375"/>
+                            <mxPoint x="490" y="435"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-22" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="Melihat ketersediaan jadwal dokter" vertex="1">
+                    <mxGeometry height="50" width="160" x="165" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-27" edge="1" parent="1" source="gqPH6V1CDbzmUIu4SyD0-24" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;curved=0;" target="gqPH6V1CDbzmUIu4SyD0-26">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="600" y="480"/>
+                            <mxPoint x="245" y="480"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-24" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="Menampilkan jadwal ketersediaan dokter" vertex="1">
+                    <mxGeometry height="50" width="160" x="520" y="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-29" edge="1" parent="1" source="gqPH6V1CDbzmUIu4SyD0-26" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;curved=0;" target="gqPH6V1CDbzmUIu4SyD0-28">
+                    <mxGeometry relative="1" x="-0.0287" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="600" y="525"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-26" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="mendaftar berobat pada slot yang tersedia" vertex="1">
+                    <mxGeometry height="50" width="160" x="165" y="500" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-31" edge="1" parent="1" source="gqPH6V1CDbzmUIu4SyD0-28" style="edgeStyle=none;html=1;" target="gqPH6V1CDbzmUIu4SyD0-30" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-28" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="sistem memeriksa ketersediaan jadwal" vertex="1">
+                    <mxGeometry height="50" width="160" x="520" y="570" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-37" edge="1" parent="1" source="gqPH6V1CDbzmUIu4SyD0-30" style="edgeStyle=none;html=1;" target="gqPH6V1CDbzmUIu4SyD0-36" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-30" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="Pendaftaran yang tercatat berstatus Menunggu Pembayaran." vertex="1">
+                    <mxGeometry height="50" width="160" x="520" y="700" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-44" edge="1" parent="1" source="gqPH6V1CDbzmUIu4SyD0-36" style="edgeStyle=none;html=1;entryX=0.373;entryY=-0.059;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;" target="gqPH6V1CDbzmUIu4SyD0-38" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-46" edge="1" parent="1" source="gqPH6V1CDbzmUIu4SyD0-36" style="edgeStyle=none;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;rounded=0;curved=0;" target="gqPH6V1CDbzmUIu4SyD0-45">
+                    <mxGeometry relative="1" x="0.0008" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="120" y="725"/>
+                            <mxPoint x="120" y="992.5"/>
+                            <mxPoint x="160" y="992.5"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-36" parent="1" style="rhombus;" value="Status Pembayaran" vertex="1">
+                    <mxGeometry height="100" width="120" x="185" y="675" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-43" edge="1" parent="1" source="gqPH6V1CDbzmUIu4SyD0-38" style="edgeStyle=none;html=1;" target="gqPH6V1CDbzmUIu4SyD0-42">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-38" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="Membayar administrasi" vertex="1">
+                    <mxGeometry height="50" width="160" x="185" y="860" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-53" edge="1" parent="1" source="gqPH6V1CDbzmUIu4SyD0-42" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;curved=0;" target="gqPH6V1CDbzmUIu4SyD0-51">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="720" y="885"/>
+                            <mxPoint x="720" y="1145"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-42" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value=" status pendaftaran &lt;br/&gt;berubah menjadi Terdaftar" vertex="1">
+                    <mxGeometry height="50" width="160" x="510" y="860" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-50" edge="1" parent="1" source="gqPH6V1CDbzmUIu4SyD0-45" style="edgeStyle=none;html=1;" target="gqPH6V1CDbzmUIu4SyD0-49">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-45" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="Membatalkan pendaftaran" vertex="1">
+                    <mxGeometry height="50" width="160" x="185" y="980" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ya, membayar" vertex="1">
+                    <mxGeometry height="30" width="60" x="250" y="803" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="tidak membayar" vertex="1">
+                    <mxGeometry height="30" width="60" x="130" y="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-52" edge="1" parent="1" source="gqPH6V1CDbzmUIu4SyD0-49" style="edgeStyle=none;html=1;" target="gqPH6V1CDbzmUIu4SyD0-51">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-49" parent="1" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" value="status pendaftaran berubah menjadi Dibatalkan" vertex="1">
+                    <mxGeometry height="50" width="160" x="510" y="980" as="geometry"/>
+                </mxCell>
+                <mxCell id="gqPH6V1CDbzmUIu4SyD0-51" parent="1" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" value="" vertex="1">
+                    <mxGeometry height="30" width="30" x="575" y="1130" as="geometry"/>
+                </mxCell>
+                <mxCell id="AS30teeBBj4ZAHl90w-l-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="PASIEN" vertex="1">
+                    <mxGeometry height="1120" width="345" x="80" y="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="AS30teeBBj4ZAHl90w-l-2" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="SISTEM" vertex="1">
+                    <mxGeometry height="1120" width="345" x="425" y="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
